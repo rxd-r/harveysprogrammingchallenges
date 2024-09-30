@@ -1,5 +1,5 @@
 def email_validator(email: str):
-    \jshvdaskdbashbserrors = []
+    errors = []
 
     first_part: str = ""
     last_part: str = ""
