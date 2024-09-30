@@ -1,5 +1,5 @@
 def email_validator(email: str):
-    errors = []
+    errors = [] #my name is neung
 
     first_part: str = ""
     last_part: str = ""
